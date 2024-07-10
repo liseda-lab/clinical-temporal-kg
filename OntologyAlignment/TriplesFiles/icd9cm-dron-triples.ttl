@@ -1,0 +1,20 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://purl.bioontology.org/ontology/ICD9CM/00.1> owl:equivalentClass <http://purl.obolibrary.org/obo/CHEBI_52217> .
+
+<http://purl.bioontology.org/ontology/STY/T001> owl:equivalentClass <http://purl.obolibrary.org/obo/OBI_0100026> .
+
+<http://purl.bioontology.org/ontology/STY/T044> owl:equivalentClass <http://purl.obolibrary.org/obo/GO_0003674> .
+
+<http://purl.bioontology.org/ontology/STY/T071> owl:equivalentClass <http://purl.obolibrary.org/obo/BFO_0000001> .
+
+<http://purl.bioontology.org/ontology/STY/T096> owl:equivalentClass <http://purl.obolibrary.org/obo/CHEBI_24433> .
+
+<http://purl.bioontology.org/ontology/STY/T125> owl:equivalentClass <http://purl.obolibrary.org/obo/CHEBI_24621> .
+
+<http://purl.bioontology.org/ontology/STY/T127> owl:equivalentClass <http://purl.obolibrary.org/obo/CHEBI_33229> .
+
+<http://purl.bioontology.org/ontology/STY/T129> owl:equivalentClass <http://purl.obolibrary.org/obo/CHEBI_50846> .
+
+<http://purl.bioontology.org/ontology/STY/T195> owl:equivalentClass <http://purl.obolibrary.org/obo/CHEBI_33281> .
+

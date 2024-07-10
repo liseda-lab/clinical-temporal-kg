@@ -1,0 +1,16 @@
+To perform Ontology Alignment we use the AML tool avilable at: https://github.com/
+
+Setps to use AML:
+
+1 - Open the file tab and select 'Open Ontologies'.
+2 - Load the Source ontology.
+3 - Load the Target ontology.
+4 - Open the Match tab and run the 'Automatic Matcher'.
+5 - Download the alignment (rdf format).
+
+Steps to prepare the alignment files to extend the KG:
+
+1 - Download the alignment files.
+2 - Place them in the OntologyAlignment directory ./AlignmentFile .
+3 - Run the script formatAlignment.py.
+4 - The final results are on the triples files directory formated as both tsv and turtle.

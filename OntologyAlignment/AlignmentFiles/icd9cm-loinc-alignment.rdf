@@ -1,0 +1,3202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://purl.bioontology.org/ontology/ICD9CM/</onto1>
+	<onto2>http://purl.bioontology.org/ontology/LNC/</onto2>
+	<uri1>http://purl.bioontology.org/ontology/ICD9CM/</uri1>
+	<uri2>http://purl.bioontology.org/ontology/LNC/</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/789.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP428335-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/789.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17637-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/651.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU066036"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/651.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP422365-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/781.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17660-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020847"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA7438-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74902-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/788.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17661-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/274"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14305-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/51.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14290-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/51.22"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14290-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/45.23"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP6191-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/45.23"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15380-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/041.82"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP16785-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/094"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10492-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP14388-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19197-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/006"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10431-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/007.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10449-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/060"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10520-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/344.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020806"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/344.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25276-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/344.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75345-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.02"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25373-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.02"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP230019-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.02"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU054872"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/749.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14412-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/54.21"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15411-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/54.21"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP6361-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/781.94"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24720-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/658.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA20068-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E928.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU039716"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E928.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP120689-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/358.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15158-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/277.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA22202-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/277.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU021607"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/277.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP56779-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E908.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA30042-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/124"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10512-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/39.95"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP149600-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/39.95"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9975-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/39.95"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP173518-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/787.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25063-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/278.02"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA32905-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/278.02"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP269280-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/788.43"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25318-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/72.7"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA18964-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/789.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013636"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/789.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15468-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/789.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74394-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/798.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10530-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/088.82"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10434-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/099.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10441-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/243"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP56766-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/243"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU025182"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/087"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10500-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/037"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10510-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E970-E978.9"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14099-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/135"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP209028-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.01"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17613-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/89.52"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24331-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/423.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24492-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/752.61"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA20090-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/581"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10569-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/714.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15161-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10438-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/709.01"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15163-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.31"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17084-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA29583-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/578.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15428-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/458.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA27841-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/082.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA29738-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/33.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA28293-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/428"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP269421-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/89.8"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP430288-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/788.42"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25323-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.83"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU035233"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.83"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP415707-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.83"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP98453-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.83"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9495-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.83"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP6426-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/020"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10495-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/92.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA4477-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E908.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA30040-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V68.01"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP175728-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.51"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP145911-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.51"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU043324"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA28842-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP98885-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU035552"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/368.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA32598-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/783.41"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU019355"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/783.41"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP36298-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/50.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA28295-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/117.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10446-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/741"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19643-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/759.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19610-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/333.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24801-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780.93"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013522"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780.93"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75117-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/430-438.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA31446-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/751.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP208999-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/282.44"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA18564-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9535-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU041449"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.5"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP133247-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/791.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA18970-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/070"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020837"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/070"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75854-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/89.58"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP189524-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/89.58"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU050363"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/491"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10560-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/123.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10450-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/492"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10561-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.84"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA33539-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/850"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA7422-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/92"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP6419-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/707.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19028-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/115"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10477-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/366"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP128693-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/366"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU040525"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/337.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74519-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/337.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013354"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/34.91"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP263783-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/010-018.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020835"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/010-018.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10513-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/010-018.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75796-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/753.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10565-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/007.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10466-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/317-319.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24759-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/305.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP36309-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/305.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU019366"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/136.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17787-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/079.83"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP16661-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/43.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP248512-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/43.9"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA26072-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/368.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP201274-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/368.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU051243"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/056"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10502-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/413"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14275-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/564.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74650-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/564.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA22282-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/564.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020768"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/523.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA8960-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/362.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74724-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/362.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020818"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP17985-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19300-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/055"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17014-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/785.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16997-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/787.91"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74729-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/787.91"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013347"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/787.91"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15424-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/991.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74945-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/991.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9541-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/991.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013244"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP17984-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19299-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/032"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP16825-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/032"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10452-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74586-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020785"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/084"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10488-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/030"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU064153"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/030"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP417693-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/344.81"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA27535-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/116.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10436-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/799.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9547-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/550"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25050-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/389"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24366-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/389"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP56780-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/389"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU021608"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.32"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17085-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/54.98"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10059-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/54.98"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP149602-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/88.25"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP200095-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/756.14"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19649-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/366.04"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25470-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP14092-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19198-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/783.43"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24894-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/088.81"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10487-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/782.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17263-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/782.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU019803"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/782.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP72527-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/365"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74892-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/365"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16302-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/365"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020819"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/744.23"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9231-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74620-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA22093-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013382"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/277.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP209029-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/94.35"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA6609-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/37.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP263432-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/038"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75611-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/038"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10591-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/038"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020833"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/368"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16363-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/114"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10444-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74491-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020799"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA18262-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/69.92"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14527-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V26.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14527-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15903-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020860"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/784.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74908-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/307.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA25319-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/585.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU040642"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/585.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP128701-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/585.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP146090-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/758.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74785-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/758.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020584"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.07"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013532"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.07"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75897-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/788.91"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74878-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/788.91"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013233"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/021"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10514-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/788.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA6436-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/93.85"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP185854-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/830-839.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17262-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP16674-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19203-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/200.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA26524-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/77.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA32175-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/425"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU040649"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/425"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP128708-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V62.84"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP411350-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V62.84"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU063331"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/078.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10440-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/130"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10511-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/530.85"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14288-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16122-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/743.45"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24630-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19302-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP17986-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/80.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP6135-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/785.51"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17687-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/756.73"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19590-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/733.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020796"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/733.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10527-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/733.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75283-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/426.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17096-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/250"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14291-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/250"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74722-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/250"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020781"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/807.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17342-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/083.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10498-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/749.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14411-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/564.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10555-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/331.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020798"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/331.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA22313-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/331.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74474-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/633"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU015326"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/633"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP72505-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/493"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74511-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/493"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020815"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/493"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16982-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.06"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA18267-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/072"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP32627-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/072"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10491-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/368.62"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24490-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/022"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10432-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/377.43"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16338-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V21.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA26685-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/05.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP264233-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/695.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17781-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338-338.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA7460-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338-338.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU029813"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338-338.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75331-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/066.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10519-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/100"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10484-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/458"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74944-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/458"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020790"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/458"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA7443-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.41"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17073-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/335.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU062169"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/335.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA22279-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/335.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP288641-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/389.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24487-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/708"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA20642-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/89.11"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP29679-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/89.11"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP32273-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/63.73"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14534-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/282.7"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU021598"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/282.7"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP56770-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74430-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/338.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013340"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/756.72"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA20082-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/740-759.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA20354-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/378.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP72689-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/378.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP29675-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/378.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013559"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP16673-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/023.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19200-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/446.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17782-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/745.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19623-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E928.3"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA28745-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/007.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10448-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/800-829.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA22219-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/940-949.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9568-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/54.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15412-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/560.32"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP74833-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/560.32"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU013359"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/756.12"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP426718-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/756.12"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU066326"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E001-E030.9"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU002837"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/E001-E030.9"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP72045-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/335.20"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA27534-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/45.24"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP6277-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10505-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/995.92"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA20586-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/332"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020807"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/332"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA27533-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/332"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75351-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/050"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA16614-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/034.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17017-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V83-V84.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP415703-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.1"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17612-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/340"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA14298-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/340"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75152-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/340"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020805"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/94.32"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA33537-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/997.31"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA28436-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/300.23"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10585-0"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/367.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA24635-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/744.22"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA9232-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/203.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA31350-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/750.15"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19572-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/281.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15159-9"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/027.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10485-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.05"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU020850"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.05"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17001-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.05"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75617-8"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/759.82"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA29643-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V85-V85.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU017351"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/49.21"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP32191-6"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780.97"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17392-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/296.80"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA30595-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP17983-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/004.2"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA19301-3"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/380.4"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15481-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780-789.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU021540"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/780-789.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP75708-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/080"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA10486-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/73.6"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA18955-7"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V26.21"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP7798-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/579.0"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA15156-5"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/786.03"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LA17393-2"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/16.21"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP149841-1"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8657</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/V85-V85.99"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/LP35925-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7896</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/427.31"/>
+			<entity2 rdf:resource="http://purl.bioontology.org/ontology/LNC/58268-4"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7708</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

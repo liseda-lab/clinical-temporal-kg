@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://purl.bioontology.org/ontology/ICD9CM/</onto1>
+	<onto2>http://purl.obolibrary.org/obo/dron.owl</onto2>
+	<uri1>http://purl.bioontology.org/ontology/ICD9CM/</uri1>
+	<uri2>http://purl.obolibrary.org/obo/dron.owl</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T127"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33229"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7332</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T129"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_50846"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.752</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T044"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/GO_0003674"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T195"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33281"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.705</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T001"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/OBI_0100026"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T071"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/ICD9CM/00.1"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_52217"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7708</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T125"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24621"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://purl.bioontology.org/ontology/STY/T096"/>
+			<entity2 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>
