@@ -24,13 +24,14 @@ Please follow the introductions for intalation and use provided by the source re
 
 ## Steps to prepare the alignment files to extend the KG:
 
-1. Place them in the OntologyAlignment directory ./OntologyAlignment .
+1. Place them in the OntologyAlignment directory /AlignmentFiles.
+1.1. Our version of the files already is inside that directory.
 2. Run the script formatAlignment.py.
 ```python
-    cd /AlignmentFile
+    cd OntologyAlignment
     python3 formatAlignment.py
 ```
 3. The final results are on the triples files directory formated as both tsv and turtle.
 ```python
-    cd /TriplesFiles
+    cd TriplesFiles
 ```
