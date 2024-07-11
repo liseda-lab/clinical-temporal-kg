@@ -20,7 +20,8 @@ Please follow the introductions for intalation and use provided by the source re
 2. Load the Source ontology.
 3. Load the Target ontology.
 4. Open the Match tab and run the 'Automatic Matcher'.
-5. Download the alignment (rdf format).
+5. Run all cobinations between the 4 ontologies.
+6. Download the alignment (rdf format with name: ontology1-ontology2-alignment).
 
 ## Steps to prepare the alignment files to extend the KG:
 
