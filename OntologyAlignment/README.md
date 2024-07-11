@@ -5,9 +5,14 @@ To ensure that, we provide the necessary direction to produce the alignment file
 
 ## To perform Ontology Alignment we use the AML tool.
 
-The tool is available at https://github.com/AgreementMakerLight/AML-Project
+The tool is available at https://github.com/AgreementMakerLight/AML-Project.
 
 Please follow the introductions for intalation and use provided by the source repository.
+
+## Requirements:
+
+- Download the fowing ontologies: ICD9CM, DRON, LOINC and NCIT. All are available at: https://bioportal.bioontology.org.
+- Have AML installed.
 
 ## Setps to use AML for our implementation:
 
