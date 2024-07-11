@@ -1,11 +1,13 @@
 # Stepts to extend the TKG with ontology alignment
 
-This folder contains the necessary information to perform ontology alignment the way intended on our method.
-To ensure that we provide the necessary resources to do the alignment but also provide our alignment results.
+This folder contains the necessary information to perform ontology alignment in the way intended by our method.
+To ensure that, we provide the necessary direction to produce the alignment files and our own in case of an issue.
 
-## To perform Ontology Alignment we use the AML tool avilable at: https://github.com/AgreementMakerLight/AML-Project
+## To perform Ontology Alignment we use the AML tool.
 
-Please follow the introductions for intalation and use provided by the source repository
+The tool is available at https://github.com/AgreementMakerLight/AML-Project
+
+Please follow the introductions for intalation and use provided by the source repository.
 
 ## Setps to use AML for our implementation:
 
