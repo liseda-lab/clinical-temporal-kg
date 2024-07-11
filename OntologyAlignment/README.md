@@ -24,9 +24,8 @@ Please follow the introductions for intalation and use provided by the source re
 
 ## Steps to prepare the alignment files to extend the KG:
 
-1. Place them in the OntologyAlignment directory /AlignmentFiles.
-1.1. Our version of the files already is inside that directory.
-2. Run the script formatAlignment.py.
+1. Place them in the OntologyAlignment directory /AlignmentFiles. *Our version of the files already is inside that directory.
+3. Run the script formatAlignment.py.
 ```python
     cd OntologyAlignment
     python3 formatAlignment.py
