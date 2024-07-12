@@ -35,3 +35,19 @@ integration . The alignment will establishing correspondences between different 
 ````
     cd OntologyAlignment
 ````
+
+## Semantic Annotation
+
+The annotation process, links the terms found in clinical text to the corresponding ontology classes. This process proides a gate to the ontology information and consequent semantic relations.
+
+On our framework we propose two alternatives to the process. For this particualar framework/implementation we use the Transformer based approach. However all results and instructions to do the lexical based method are available.
+
+### Lexical based approach 
+`````
+    cd SemanticAnnotation/LexicalBased
+`````
+
+### Tranformer based approach. 
+`````
+    cd SemanticAnnotation/TransformerBased
+`````
