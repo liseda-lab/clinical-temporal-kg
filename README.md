@@ -22,7 +22,7 @@ Aims to select the best ontology to cover the intended data set.
 In this framework we are targeting intitial diagnostics information and use NCBO's recommender as a tool for the selection.
 
 - Please acess the Ontology Selection directory to continue with the ontology selection
-````
+````python
     cd OntologySelection
 ````
 
@@ -32,7 +32,7 @@ With the alignment of ontologies, we are trying to provide additional connection
 integration . The alignment will establishing correspondences between different ontology classes allowing a gate between the different ontologies to facilitate downstream tasks that establish paths in a KG.
 
 - Please acess the Ontology Alignment directory to continue with the ontology alignment
-````
+````python
     cd OntologyAlignment
 ````
 
@@ -43,11 +43,11 @@ The annotation process, links the terms found in clinical text to the correspond
 On our framework we propose two alternatives to the process. For this particualar framework/implementation we use the Transformer based approach. However all results and instructions to do the lexical based method are available.
 
 ### Lexical based approach 
-`````
+`````python
     cd SemanticAnnotation/LexicalBased
 `````
 
 ### Tranformer based approach. 
-`````
+`````python
     cd SemanticAnnotation/TransformerBased
 `````
