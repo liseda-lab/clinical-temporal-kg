@@ -20,7 +20,7 @@ Disclaimer: The results presented our manuscript were obtained using the version
 1. Acess the script 'RecommenderCoverage.py'.
 ```python
     cd OntologySelection
-    less formatAlignment.py
+    open formatAlignment.py
 ```
 2. Change the paths to the targeted files.
 3. Put your API key.
