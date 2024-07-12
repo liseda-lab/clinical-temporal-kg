@@ -10,7 +10,7 @@ Disclaimer: The results presented our manuscript were obtained using the version
 
 ## Requirements for selection:
 
-1. Acess to NCBO recoomender.
+1. Acess to NCBO recoomender. (https://bioportal.bioontology.org/recommender)
 2. Have a valid NCBO API key.
 3. Pre select a set of ontologies.
 
